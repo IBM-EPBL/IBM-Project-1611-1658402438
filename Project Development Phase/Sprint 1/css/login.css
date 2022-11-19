@@ -1,0 +1,12 @@
+.form-control {
+  border-radius: 0rem !important;
+}
+
+.login-img {
+  border: none !important;
+  max-width: 50% !important;
+}
+
+.login-btn {
+  border-radius: 0rem !important;
+}

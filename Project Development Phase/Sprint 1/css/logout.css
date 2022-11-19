@@ -1,0 +1,15 @@
+.logout-title {
+  font-size: 1.5rem;
+}
+
+.card-text {
+  text-align: justify;
+}
+
+.login-btn {
+  border-radius: 0rem !important;
+}
+
+.login-info {
+  font-size: larger;
+}

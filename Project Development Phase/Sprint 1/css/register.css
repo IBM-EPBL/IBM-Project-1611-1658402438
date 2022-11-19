@@ -1,0 +1,12 @@
+.form-control {
+  border-radius: 0rem !important;
+}
+
+.register-img {
+  border: none !important;
+  max-width: 50% !important;
+}
+
+.register-btn {
+  border-radius: 0rem !important;
+}
